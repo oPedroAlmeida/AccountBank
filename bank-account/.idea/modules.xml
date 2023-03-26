@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accountCMD/accountCmd.iml" filepath="$PROJECT_DIR$/accountCMD/accountCmd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountCommon/accountCommon.iml" filepath="$PROJECT_DIR$/accountCommon/accountCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountQuery/accountQuery.iml" filepath="$PROJECT_DIR$/accountQuery/accountQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account.iml" filepath="$PROJECT_DIR$/bank-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cqrsCore/cqrsCore.iml" filepath="$PROJECT_DIR$/../cqrsCore/cqrsCore.iml" />
+    </modules>
+  </component>
+</project>
